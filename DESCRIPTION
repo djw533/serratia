@@ -1,0 +1,13 @@
+Package: serratia
+Type: Package
+Title: Williams et al., 2022 tree plotting and data
+Version: 0.1.0
+Author: David Williams
+Maintainer: David WIlliams
+Description: Data and functions to plot trees from Williams et al., 2022
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends:
+    micro.gen.extra,
+    R (>= 2.10)
